@@ -32,3 +32,9 @@ p {
     font-size: 18px;
     margin: 10px 0;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
